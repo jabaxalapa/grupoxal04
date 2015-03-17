@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="ZP" folio="4106" fecha="2014-10-06T11:35:52" formaDePago="PAGO EN UNA SOLA EXHIBICIÓN" certificado="MIIEzDCCA7SgAwIBAgIUMDAwMDEwMDAwMDAyMDI0NzI1MjYwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTEyOTIzMzMyMFoXDTE2MTEyOTIzMzMyMFowggEMMTowOAYDVQQDFDFDT01QQSZJQSBNRVhJQ0FOQSBERSBUUkFTTEFETyBERSBWQUxPUkVTIFNBIERFIENWMTowOAYDVQQpFDFDT01QQSZJQSBNRVhJQ0FOQSBERSBUUkFTTEFETyBERSBWQUxPUkVTIFNBIERFIENWMTowOAYDVQQKFDFDT01QQSZJQSBNRVhJQ0FOQSBERSBUUkFTTEFETyBERSBWQUxPUkVTIFNBIERFIENWMSUwIwYDVQQtExxNVFY3NjAyMjZHNzMgLyBOT0ZKNTUwNzMwNjQwMR4wHAYDVQQFExUgLyBOT0ZKNTUwNzMwSERGR0xMMTgxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAuQRgZA4KZXTKNA+GqMUDSv8rNDawxaDr5rWpxfnccJcaGtzeXqEwQbcVl0wvdRm/W+R403ID/2nCQQJtl+A9q9DWS2PJo7sdiyvRY40WRMJdxAGZQW5SZ8SChWHEqQ7Daod4/II00gKAYjGbv4kCW9ipTHDbhJ9d/KG4ADgAfWcCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAHKxMxRJHfK1oMa+fG3NB1qRYSHmt9da1ndM1xq0qFyrM3W/5DYYi6V9VR9v7NQMiYmL81E1yKjfiY6S9x/rm6ncNMKoK4tVbp+YN/SoLmNvpexM04aLSwLAqcx+v7a3vz9Y0Pha2l0OvYj7nNZDZc9D1nZT+2J6AHb4EcQUZxvI3DUBz9Z4tGXDyTlz1zs1pgRofVd9JXc2OUvMGZlSfdtUEV/rMJKdBdBNLodGIHhbrH/H1BZUvrytSCIIBG15cuZ5v78vC0qx8mTxNpC8oQ4frbcVcy3vXJsCHYJnZ1+TaYgcA7eiPb7dLpnpsRWKLPNz8gQIk7UK2OzMceb8tME=" tipoDeComprobante="ingreso" subTotal="1642" descuento="0" motivoDescuento="0" total="1839.04" TipoCambio="1.00" Moneda="MXN" metodoDePago="CHEQUES NOMINATIVOS" LugarExpedicion="POZA RICA, VER., 2014-10-06T11:35:52" NumCtaPago="5930" sello="Jqn6KWuFzfT6npLTOQk12sVD1u6o/HfFWy016W/obvcmMXsnnQOOf/QZy3qTwXBd+zTs3UniX/hevJVHBvz7aFr/7MOlyyDM/wOGplrkkucI+qQZq0nVOeHN8ARTPqQpuURarCN1RgTU8zCUrRNxEXNrz762GpgyV4/BrROXLVk=" noCertificado="00001000000202472526" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor rfc="MTV760226G73" nombre="COMPAÑIA MEXICANA DE TRASLADO DE VALORES S.A. DE C.V.">
+    <cfdi:DomicilioFiscal calle="IXNAHUALTONGO" noExterior="129" colonia="LORENZO BOTURINI" municipio="VENUSTIANO CARRANZA" estado="DF" pais="MEXICO" codigoPostal="15820" />
+    <cfdi:ExpedidoEn calle="AV. FERROCARRIL" noExterior="137" colonia="AVIACIÓN VIEJA" municipio="POZA RICA" estado="VER." pais="MÉXICO" codigoPostal="93370" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="GXA030106S26" nombre="GRUPO XALAPA, S.A. DE C.V.">
+    <cfdi:Domicilio calle="AVENIDA LAZARO CARDENAS" noExterior="404" colonia="ENCINAL" localidad="XALAPA" municipio="XALAPA" estado="VERACRUZ" pais="MEXICO" codigoPostal="91150" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="13" unidad="SERVICIO" descripcion="TRANS.RECOLEC.VAL.LUN-SAB 20:01 A 06:59" valorUnitario="106.0000" importe="1378.000000" />
+    <cfdi:Concepto cantidad="352.000" unidad="MILES" descripcion="CUOTA DE TRANSP.X VOLUMEN(C/1000 O FRAC)" valorUnitario="0.7500" importe="264.000000" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosRetenidos="65.68" totalImpuestosTrasladados="262.72">
+    <cfdi:Retenciones>
+      <cfdi:Retencion impuesto="IVA" importe="65.68" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="262.72" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="1BC3B6E6-7C18-4F6A-83E5-A5E6E620A22A" FechaTimbrado="2014-10-06T11:38:59" selloCFD="Jqn6KWuFzfT6npLTOQk12sVD1u6o/HfFWy016W/obvcmMXsnnQOOf/QZy3qTwXBd+zTs3UniX/hevJVHBvz7aFr/7MOlyyDM/wOGplrkkucI+qQZq0nVOeHN8ARTPqQpuURarCN1RgTU8zCUrRNxEXNrz762GpgyV4/BrROXLVk=" noCertificadoSAT="00001000000203220546" selloSAT="WzTy0SeEMJ56Lq6KuQIWX2jUybiSDPsKLqV4okFL6EByJqmVo/QTWPaiGSNAFcgdWxvWhP4qMrA6gKnQCxyWrq1JXViWjKVfCS4iFV9aFFW/J4A23w4MPyvwdufBmtuU8iEzUbCVplzPrGOpKn/Uh5n7715ADxL4zVyj8ME+km8=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

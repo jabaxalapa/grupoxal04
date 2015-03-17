@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" Moneda="MXP" metodoDePago="no aplica" LugarExpedicion="Veracruz" version="3.2" fecha="2015-03-11T15:53:25" sello="j15lPj4hBGfgp5f4LbHOPBky9aJg5rjxooWc2Qlx8RP/xljS1UYWUdtmStbD1n3FdWB2lfTmWdFGFUsuuCVYZ0FHHlJuxKEuc/y1CeIyAY4F+5BYkcCpgcJKg7T9L4zjp2VJSli5a3yWRAs9MpHhboKt03Zp9E5l9IY7biMwsw0=" formaDePago="Pago en una sola exhibición" tipoDeComprobante="ingreso" noCertificado="00001000000302182342" certificado="MIIEaTCCA1GgAwIBAgIUMDAwMDEwMDAwMDAzMDIxODIzNDIwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xNDAxMDMwNTQzNDBaFw0xODAxMDMwNTQzNDBaMIG1MSMwIQYDVQQDExpSVVRIIEFCSUdBSUwgQ0VCQUxMT1MgQUxCQTEjMCEGA1UEKRMaUlVUSCBBQklHQUlMIENFQkFMTE9TIEFMQkExIzAhBgNVBAoTGlJVVEggQUJJR0FJTCBDRUJBTExPUyBBTEJBMRYwFAYDVQQtEw1DRUFSOTExMDAyNlAzMRswGQYDVQQFExJDRUFSOTExMDAyTVZaQkxUMDIxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA9WOP1wXJpwVy37tzH2weSR3P5PIrTrg/24DCfhT7kJ3PusHMcmNfyj2f7BiqxNSZz5125wdDXPLmj6LySukSHieUdqe9ZZfJIO4Tnu/McTGoWnp+MkKHhujdMW0eIJsMMrYm4z/xSSQLl9N2nku1bdPIMUfQH0YPN8g/ULyhd0cCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAMKYy2mMKl6rEozK5EarK8OSloIHBWIGaRiQszFG+RehNEkPm22ph2L8ZPgDE2KzIQNVz+PZYcBrZ3ys0vTOqk5XqGxo9ELkiOKm0Yeyh+uT6PsZYsxRr6LgVt4XZe8mIEJ02TV0WroDOhSGHBoABHrxLnOI0ueGz/bVImEkUYW5mrJVwRpxS/vl3gtPKceqyj4PCgw46tuRownh8KHIN4+ZqxyzKrOp8D6kPLFzBWPZBqm8HfnE5gRTceVGG/GP+8jYZYw+AyJOpOwpgCbkjoy34VkHyf2uLDRtYRHlWvt7D7xPO/f7XB2w5sQ4o/OhLGobAI21vx0N47aL+C5NnZI=" subTotal="500.000000" total="580.000000" serie="A" folio="718">
+	<cfdi:Emisor rfc="CEAR9110026P3" nombre="RUTH ABIGAIL CEBALLOS ALBA">
+		<cfdi:DomicilioFiscal calle="JUSTINO SARMIENTO" noExterior="57" colonia="PROGRESO MACUILTEPETL" localidad="XALAPA" municipio="XALAPA" estado="Veracruz" pais="mex" codigoPostal="91130" />
+		<cfdi:RegimenFiscal Regimen="no aplica"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="GXA030106S26" nombre="GRUPO XALAPA,S.A. DE C.V.">
+		<cfdi:Domicilio calle="Av. Lazaro Cardenas" noExterior="404" colonia="Encinal" localidad="Xalapa" municipio="xalapa" estado="Veracruz" pais="MEXICO" codigoPostal="91180" />
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.000000" unidad="servicio" descripcion="viaje de agua cap 10,000 lts" valorUnitario="500.000000" importe="500.000000">
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="80.000000">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="80.000000" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" FechaTimbrado="2015-03-11T15:53:26" UUID="8BF191B9-1AEE-84B0-F52D-876CAD80776B" noCertificadoSAT="00001000000203392777" selloCFD="j15lPj4hBGfgp5f4LbHOPBky9aJg5rjxooWc2Qlx8RP/xljS1UYWUdtmStbD1n3FdWB2lfTmWdFGFUsuuCVYZ0FHHlJuxKEuc/y1CeIyAY4F+5BYkcCpgcJKg7T9L4zjp2VJSli5a3yWRAs9MpHhboKt03Zp9E5l9IY7biMwsw0=" selloSAT="h4HSrpo/5OSk126wnpIK38jouA+2I9gxv4lBeow21Jv+dx4fJHkZ5zSFPf5dC9zg3DH12+3rzyZOXZQCKP0Uvj1zCTCj13+cFcT2iUqWv4gMJ5dM2YPdyX5su5ZngyEXj7PpQWX486rqzs7wGafqSuaSz3C8bPDgoy/0bY3YsGo=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+	</cfdi:Complemento>
+</cfdi:Comprobante>

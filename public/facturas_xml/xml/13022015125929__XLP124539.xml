@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><cfdi:Comprobante version="3.2" serie="XLP" folio="124539" fecha="2014-12-15T10:31:03" sello="efvrmmwGhVMsApkJfTzZvCXWhUJiEWX88aYASk+7XzvASpqYTOZvmDZ2oWReCb7o9639qCU8AiSPIYN64XI3Nc7EI+rHgoZ7TqXkneH6WCOhqKCTRUQV3q6ihXgEQO/IPOvPsfVmLI4thhnPPv5CnO0r8YNnEYjSsAuZ71LUgls=" formaDePago="Pago en una sola exhibicion" noCertificado="00001000000301826379" certificado="MIIEnzCCA4egAwIBAgIUMDAwMDEwMDAwMDAzMDE4MjYzNzkwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMTcwMDMyMDVaFw0xNzEyMTcwMDMyMDVaMIHrMS8wLQYDVQQDEyZDVCBJTlRFUk5BQ0lPTkFMIERFTCBOT1JPRVNURSBTQSBERSBDVjEvMC0GA1UEKRMmQ1QgSU5URVJOQUNJT05BTCBERUwgTk9ST0VTVEUgU0EgREUgQ1YxLzAtBgNVBAoTJkNUIElOVEVSTkFDSU9OQUwgREVMIE5PUk9FU1RFIFNBIERFIENWMSUwIwYDVQQtExxDSU45NjA5MDRGUTIgLyBST1ZINjEwOTA1TkY5MR4wHAYDVQQFExUgLyBST1ZINjEwOTA1SFNMSkxSMDUxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAnduJPWLYU6lhRg9t0MOn9BrUzZd+QiMKVi9u4IReI5peGV9EMVzNsdA3N5E9YQvVHuKSqRwo83B8uURfe0bo/6tHgwr83iNfqZtSQ5S52nYg7sQMquWAbSLJYVQ9aK3AGv7F+uR68fmfgA63B5S8gZPTj6DaGmNWwK6ERnGNT90CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAEuGmtI2397KvHV1F6wwMkR57OLGivXxnf2NFpRRW/43DH3AykbI6cEjv0n/VyA/5zifWIfqFu/LcoFvIVX+f2eTdDn/NfYCj0Rf15IZ55mBiRtTxUyJVtmk4BfRouePNqYFuAnI+Ln5MRylkXs08yZlkx0NT7Pm8PrSWwOdixka+6KLdfbpYP+41D1+e7aZQnrledCtXzrJxabiMmToPD37BhYvzIcThhRQ6+IBkQO6AMD6xEdRoBJba5thH/ETIzx6+Jcuv/q8SoHO6aWI9WLX0G7/Gt+ojmdYuv1t60njXKQAs/F+vze3lQ3sMWKzaWOqcbGSg9o3JAoFrv17zbg=" subTotal="3129.97" LugarExpedicion="Xalapa, Veracruz" NumCtaPago="0000" TipoCambio="14.69" Moneda="MXN" total="3630.75" metodoDePago="Transferencia electrónica de fondos" tipoDeComprobante="ingreso" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd"><cfdi:Emisor rfc="CIN960904FQ2" nombre="CT INTERNACIONAL DEL NOROESTE SA DE CV"><cfdi:DomicilioFiscal calle="Guerrero" noExterior="168" colonia="Centro" localidad="Hermosillo" municipio="Hermosillo" estado="Sonora" pais="México" codigoPostal="83000" /><cfdi:ExpedidoEn calle="Ismael Cristie" noExterior="5" colonia="Rafael Lucio" localidad="Xalapa" referencia="Esquina Rafael Aguirre Cinta" estado="Veracruz" pais="México" codigoPostal="91100" /><cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" /></cfdi:Emisor><cfdi:Receptor rfc="FEAH711109T21" nombre="HUGO FERNANDEZ ARAGON"><cfdi:Domicilio calle="RIO JAMAPA #10" colonia="CUAHUTEMOC" localidad="XALAPA" estado="VER." pais="MEXICO" codigoPostal="91069" /></cfdi:Receptor><cfdi:Conceptos><cfdi:Concepto cantidad="1" unidad="Pieza" noIdentificacion="KITTPL040" descripcion="Kit Adaptadores TL-WPA4220 Starter Kit" valorUnitario="949.56" importe="949.56" /><cfdi:Concepto cantidad="2" unidad="Pieza" noIdentificacion="DDUSAT570" descripcion="DD SATA II 2TB 7200 New Pull" valorUnitario="904.90" importe="1809.81" /><cfdi:Concepto cantidad="1" unidad="Pieza" noIdentificacion="SOFKPK5810" descripcion="KPK INT SEC MULTIDISP 2015 2lic 1 ano" valorUnitario="370.60" importe="370.60" /></cfdi:Conceptos><cfdi:Impuestos totalImpuestosTrasladados="500.79"><cfdi:Traslados><cfdi:Traslado impuesto="IVA" tasa="16.00" importe="500.79" /></cfdi:Traslados></cfdi:Impuestos><cfdi:Complemento><tfd:TimbreFiscalDigital version="1.0" UUID="DABAAD1A-BC8A-4DB4-BEA5-B4757B427999" FechaTimbrado="2014-12-15T11:21:27" selloCFD="efvrmmwGhVMsApkJfTzZvCXWhUJiEWX88aYASk+7XzvASpqYTOZvmDZ2oWReCb7o9639qCU8AiSPIYN64XI3Nc7EI+rHgoZ7TqXkneH6WCOhqKCTRUQV3q6ihXgEQO/IPOvPsfVmLI4thhnPPv5CnO0r8YNnEYjSsAuZ71LUgls=" noCertificadoSAT="00001000000203159375" selloSAT="cSzn6qXxM5rB7eXEiNx9x9WVxTBVvC9D2D34Ok7+BxWfjW+GD7vlaxRGDbYrytdNEirWuFnmn8n5o+rahfrV0QuBcHYQMxglJaDQVFHGuW5XIihrVrS6FiMWgWetBktryWJTia6P8df12EVIMz10NGYjlQKvKULGERbCZbD30Z4=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" /></cfdi:Complemento><cfdi:Addenda><mf:MASFACTURA xmlns:mf="http://www.masteredi.com.mx/masfactura" xsi:schemaLocation="http://www.masteredi.com.mx/masfactura http://www.masteredi.com.mx/masfacturanet/masfactura.xsd">VERSIO	2.0
+ENCAB
+TRADPP	MASTEDI
+NUMFOL	124539
+SERFOL	XLP
+FECEXP	2014-12-15T10:31:03
+FECVEN	12/15/14
+TIPDOC	1
+NOMDOC	FACTURA
+FUNDOC	O
+TIPMON	MXN
+TIPCAM	14.69
+NUMCLI	XLP0445
+AGENTE	XL09
+
+RFCEMI	CIN960904FQ2
+NOMEMI	CT INTERNACIONAL DEL NOROESTE SA DE CV
+CALEMI	Guerrero
+NEXEMI	168
+COLEMI	Centro
+MUNEMI	Hermosillo
+ESTEMI	Sonora
+PAIEMI	México
+CODEMI	83000
+REGIMEN	REGIMEN GENERAL DE LEY PERSONAS MORALES
+
+CALEXP	Ismael Cristie
+NEXEXP	5
+NINEXP
+COLEXP	Rafael Lucio
+LOCEXP	Xalapa
+REFEXP	Esquina Rafael Aguirre Cinta
+ESTEXP	Veracruz
+LUGEXP	Xalapa, Veracruz
+CTAPAG	0000
+PAIEXP	México
+CODEXP	91100
+SUCTEL	(228) 843-5394
+SUCFAX	(228) 843-5369
+
+RFCREC	FEAH711109T21
+NOMREC	HUGO FERNANDEZ ARAGON
+CALREC	RIO JAMAPA #10
+COLREC	CUAHUTEMOC
+LOCREC	XALAPA
+ESTREC	VER.
+CODREC	91069
+PAIREC	MEXICO
+
+CANTID	1
+UNIDAD	Pieza
+CVECTI	KITTPL040
+CODUPC	KITTPL040
+DESCRI	Kit Adaptadores TL-WPA4220 Starter Kit
+PBRUDE	949.56
+IMPBRU	949.56
+TDECON	0.00
+MDECON	0.00
+IMPORT	949.56
+VALUNI	949.56
+TASIPE	16
+MONIPE	151.93
+NUMLIN	1
+
+CANTID	2
+UNIDAD	Pieza
+CVECTI	DDUSAT570
+CODUPC	DDUSAT570
+DESCRI	DD SATA II 2TB 7200 New Pull
+PBRUDE	904.90
+IMPBRU	1809.81
+TDECON	0.00
+MDECON	0.00
+IMPORT	1809.81
+VALUNI	904.90
+TASIPE	16
+MONIPE	289.57
+NUMLIN	2
+
+CANTID	1
+UNIDAD	Pieza
+CVECTI	SOFKPK5810
+CODUPC	SOFKPK5810
+DESCRI	KPK INT SEC MULTIDISP 2015 2lic 1 ano
+PBRUDE	370.60
+IMPBRU	370.60
+TDECON	0.00
+MDECON	0.00
+IMPORT	370.60
+VALUNI	370.60
+TASIPE	16
+MONIPE	59.30
+NUMLIN	3
+
+TOTLPF	3
+SUBTBR	3129.9696
+MONDET	0.00
+SUBTSI	0
+SUBTAI	3129.96
+SUBTOT	3129.96
+TOTIVA	16
+IVATRA	500.79
+TOTPAG	3630.75
+METPAG	Transferencia electrónica de fondos
+
+@@VER_MFACTURA@@	3.0
+LOCEMI	Hermosillo
+AOAPRO	0
+NOAPRO	0
+TIPDOC	1
+TIPCOM	ingreso</mf:MASFACTURA></cfdi:Addenda></cfdi:Comprobante>

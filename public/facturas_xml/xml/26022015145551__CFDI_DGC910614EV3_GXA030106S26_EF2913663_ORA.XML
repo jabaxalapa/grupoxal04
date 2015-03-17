@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante LugarExpedicion="XALAPA , VERACRUZ" Moneda="MXN" NumCtaPago="NO IDENTIFICADO" certificado="MIIE0zCCA7ugAwIBAgIUMDAwMDEwMDAwMDAyMDExMjQwMzYwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMDUyMTE1MTAxNloXDTE2MDUyMTE1MTAxNlowggETMTEwLwYDVQQDEyhESVNUUklCVUlET1JBIEdBUkNJIENSRVNQTyBTIERFIFJMIERFIENWMTEwLwYDVQQpEyhESVNUUklCVUlET1JBIEdBUkNJIENSRVNQTyBTIERFIFJMIERFIENWMTEwLwYDVQQKEyhESVNUUklCVUlET1JBIEdBUkNJIENSRVNQTyBTIERFIFJMIERFIENWMSUwIwYDVQQtExxER0M5MTA2MTRFVjMgLyBCQUhGNjcwNzI1QUIyMR4wHAYDVQQFExUgLyBCQUhGNjcwNzI1SERGUlJSMDUxMTAvBgNVBAsTKERJU1RSSUJVSURPUkEgR0FSQ0kgQ1JFU1BPIFMgREUgUkwgREUgQ1YwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALzniQ7HBO1oyvjuq1cT6aeA0G7qlbF+5nztWxvPc2iJHKnTrA/i60qcd1wp72UD5v+gbiEqcAmWJxMKI6+7/QqZ4zCXQwSQdQGltnCPjomkDZR63+KI8ybG/eqUoJMPuEHFiNhXOp15VWqza3Nhnc0L4fCUfYoWfYkDzY3VMp9dAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQAkulOavXxPap+3GCJnGAXT8Ht4iRSC2Dj3W3n8SasYQEvxYksOWoB9VNagj3Hz1JhI6oUD9jImPRiUwVW/j47uYW3fAt4K+p/BHdn5JUSAp8NsVBTE/1i9za8awheMeNX4BZztrwcZclSRtTyB2EcVa8+S70VRjyf8oORByAc02TUJ7q+dqwGCF+Scuie6x1Kxj3wzlsU71xKdksjSaBUCcXJe7xM5yudwgCDj6AXQencUf8xgxwSTwIsWyYIVRZ9ZQI9gXvx+i45LkWQLu+kF46Pl9yjiVK5KEwfb2z40UD1LY8cUIWrV87D+oHpoY7wlnidkTNldGN/rRMMUqVTc" condicionesDePago="30 Días##INTER##ORA" descuento="0.0000" fecha="2015-02-24T02:34:26" folio="2913663" formaDePago="PAGO EN UNA SOLA EXHIBICION" metodoDePago="Cheque / Depósito en cuenta / Transf. electrónica de fondos / Efectivo" noCertificado="00001000000201124036" sello="f5dKZZHfklsBe7lrMdDQ/XpcK/+ZmMnyTRdfndU5lSnUNYcFsJwvGxdcPCQA8zRovOqbEv1Jm7YpP17gRleYmhAvyxdF8ZtJfS4EwW/GvJiXaBXQ1/uzWEwe/5bP8Nfi9kberq+bVGcEizQJsQ3SXS0I3RjFCtTyGgcA3zyr++0=" serie="EF" subTotal="853.6900" tipoDeComprobante="ingreso" total="977.5500" version="3.2" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:leyendasFisc="http://www.sat.gob.mx/leyendasFiscales" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/leyendasFiscales http://www.sat.gob.mx/sitio_internet/cfd/leyendasFiscales/leyendasFisc.xsd">
+    <cfdi:Emisor nombre="DISTRIBUIDORA GARCI CRESPO S DE RL DE CV" rfc="DGC910614EV3">
+        <cfdi:DomicilioFiscal calle="AVENIDA VASCO DE QUIROGA" codigoPostal="01210" colonia="SANTA FE" estado="DISTRITO FEDERAL" municipio="ALVARO OBREGON" noExterior="3000 PH1 PH2" pais="MEXICO" referencia="751081"/>
+        <cfdi:RegimenFiscal Regimen="Régimen General de Ley Personas Morales"/>
+    </cfdi:Emisor>
+    <cfdi:Receptor nombre="GRUPO XALAPA SA DE CV" rfc="GXA030106S26">
+        <cfdi:Domicilio calle="LAZARO CARDENAS" codigoPostal="91180" colonia="ENCINAL" estado="VERACRUZ" localidad="XALAPA" noExterior="404" pais="México" referencia="#contabilidad7@grupoxalapa.com#1#22054#87871-536306#EF2913663"/>
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto cantidad="3.0000" descripcion="PEPSI 2.5 LTS PET 8" importe="292.3800" noIdentificacion="7501031310258" unidad="CAJA" valorUnitario="97.4600"/>
+        <cfdi:Concepto cantidad="1.0000" descripcion="MIRINDA 2.5 LTS PET 8" importe="97.4600" noIdentificacion="7501031345205" unidad="CAJA" valorUnitario="97.4600"/>
+        <cfdi:Concepto cantidad="2.0000" descripcion="MZNA SOL 600 ML PET 12" importe="91.9400" noIdentificacion="7501031360024" unidad="CAJA" valorUnitario="45.9700"/>
+        <cfdi:Concepto cantidad="3.0000" descripcion="MZNA SOL 2.5 LTS PET 8" importe="292.3800" noIdentificacion="7501031360338" unidad="CAJA" valorUnitario="97.4600"/>
+        <cfdi:Concepto cantidad="3.0000" descripcion="(a) EPURA 600 ML PET 12" importe="79.5300" noIdentificacion="7501086801121" unidad="CAJA" valorUnitario="26.5100"/>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="123.8600">
+        <cfdi:Traslados>
+            <cfdi:Traslado importe="123.8600" impuesto="IVA" tasa="16.0000"/>
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <leyendasFisc:LeyendasFiscales version="1.0">
+            <leyendasFisc:Leyenda textoLeyenda="(a) Productos sujetos a estímulo fiscal en base al artículo 2.1 del decreto que compila diversos beneficios fiscales y establece medidas de simplificación administrativa publicado en el DOF del 26 de Diciembre de 2013."/>
+        </leyendasFisc:LeyendasFiscales>
+    <tfd:TimbreFiscalDigital FechaTimbrado="2015-02-24T04:16:23" UUID="B53E704D-B978-4D06-AC00-E4C8EEF50458" noCertificadoSAT="00001000000202639096" selloCFD="f5dKZZHfklsBe7lrMdDQ/XpcK/+ZmMnyTRdfndU5lSnUNYcFsJwvGxdcPCQA8zRovOqbEv1Jm7YpP17gRleYmhAvyxdF8ZtJfS4EwW/GvJiXaBXQ1/uzWEwe/5bP8Nfi9kberq+bVGcEizQJsQ3SXS0I3RjFCtTyGgcA3zyr++0=" selloSAT="Im6qq6y2PWXc8yNEMMIRBHYbx07OsRuZZBDy4F11ayQiHm50oklbBXzyY42zuRrdmuVoHKyUDUfcMQPXYXlL4/GeOuSiYQ9YlqQRQH7IkecOjP5RnRIJd71GdHaQFOiG/H06kbDxt4DEV4ReXh5ht01mC5GjmErxT3IxrT8dBnw=" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/></cfdi:Complemento>
+    
+<cfdi:Addenda xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+        <requestForPayment DeliveryDate="2015-02-24" contentVersion="1.3.1" documentStatus="ORIGINAL" documentStructureVersion="AMC7.1" type="SimpleInvoiceType" xmlns="http://repository.edicomnet.com/schemas/mx/cfd/addenda" xsi:schemaLocation="http://repository.edicomnet.com/schemas/mx/cfd/addenda http://repository.edicomnet.com/schemas/mx/cfd/addenda/AddendaSUMA.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <requestForPaymentIdentification>
+                <entityType>380</entityType>
+                <uniqueCreatorIdentification>EF2913663</uniqueCreatorIdentification>
+            </requestForPaymentIdentification>
+            <specialInstruction code="ZZZ">
+                <text>(Novecientos Setenta y Siete Pesos  55/100 M.N.)</text>
+            </specialInstruction>
+            <orderIdentification>
+                <referenceIdentification type="ON">0</referenceIdentification>
+                <ReferenceDate>2015-02-24</ReferenceDate>
+            </orderIdentification>
+            <AdditionalInformation>
+                <referenceIdentification type="BT">EF</referenceIdentification>
+                <referenceIdentification type="ATZ">1</referenceIdentification>
+                <referenceIdentification type="ACE">947047115054010</referenceIdentification>
+            </AdditionalInformation>
+            <buyer>
+                <gln>0</gln>
+                <contactInformation>
+                    <personOrDepartmentName>
+                        <text>75108</text>
+                    </personOrDepartmentName>
+                </contactInformation>
+            </buyer>
+            <seller>
+                <gln>0</gln>
+                <alternatePartyIdentification type="SELLER_ASSIGNED_IDENTIFIER_FOR_A_PARTY">0</alternatePartyIdentification>
+            </seller>
+            <shipTo>
+                <gln>0</gln>
+                <nameAndAddress>
+                    <name>42337 PIZZA HOT AV  22054 244636DI</name>
+                    <streetAddressOne>AV CENTRAL SUR 25 CENTRO</streetAddressOne>
+                    <city> XALAPA VERACRUZ</city>
+                    <postalCode>91030</postalCode>
+                </nameAndAddress>
+            </shipTo>
+            <InvoiceCreator>
+                <alternatePartyIdentification type="VA">DGC910614EV3</alternatePartyIdentification>
+                <nameAndAddress>
+                    <name>DISTRIBUIDORA GARCI CRESPO S DE RL</name>
+                    <streetAddressOne>INDEPENDENCIA  NO. 177#COL. 2 DE ABRIL</streetAddressOne>
+                    <city>XALAPA#VERACRUZ#MEXICO</city>
+                    <postalCode>91030</postalCode>
+                </nameAndAddress>
+            </InvoiceCreator>
+            <currency currencyISOCode="MXN">
+                <currencyFunction>BILLING_CURRENCY</currencyFunction>
+                <rateOfChange>1.00</rateOfChange>
+            </currency>
+            <paymentTerms PaymentTermsRelationTime="REFERENCE_AFTER" paymentTermsEvent="5">
+                <netPayment netPaymentTermsType="END_OF_MONTH">
+                    <paymentTimePeriod>
+                        <timePeriodDue timePeriod="DAYS">
+                            <value>30</value>
+                        </timePeriodDue>
+                    </paymentTimePeriod>
+                </netPayment>
+            </paymentTerms>
+            <lineItem number="1" type="SimpleInvoiceLineItemType">
+                <tradeItemIdentification>
+                    <gtin>7501031310258</gtin>
+                </tradeItemIdentification>
+                <alternateTradeItemIdentification type="SUPPLIER_ASSIGNED">162</alternateTradeItemIdentification>
+                <tradeItemDescriptionInformation language="ES">
+                    <longText> PEPSI 2.5 LTS PET 8</longText>
+                </tradeItemDescriptionInformation>
+                <invoicedQuantity unitOfMeasure="CAJ">3.000</invoicedQuantity>
+                <aditionalQuantity QuantityType="NUM_CONSUMER_UNITS">24.00</aditionalQuantity>
+                <grossPrice>
+                    <Amount>97.46</Amount>
+                </grossPrice>
+                <netPrice>
+                    <Amount>97.46</Amount>
+                </netPrice>
+                <AdditionalInformation>
+                    <referenceIdentification type="ON">0</referenceIdentification>
+                </AdditionalInformation>
+                <allowanceCharge allowanceChargeType="ALLOWANCE_GLOBAL" settlementType="CHARGE_TO_BE_PAID_BY_VENDOR">
+                    <specialServicesType>TD</specialServicesType>
+                    <monetaryAmountOrPercentage>
+                        <percentagePerUnit>0</percentagePerUnit>
+                        <ratePerUnit>
+                            <amountPerUnit>0</amountPerUnit>
+                        </ratePerUnit>
+                    </monetaryAmountOrPercentage>
+                </allowanceCharge>
+                <tradeItemTaxInformation>
+                    <taxTypeDescription>VAT</taxTypeDescription>
+                    <tradeItemTaxAmount>
+                        <taxPercentage>16.00</taxPercentage>
+                        <taxAmount>46.78</taxAmount>
+                    </tradeItemTaxAmount>
+                </tradeItemTaxInformation>
+                <totalLineAmount>
+                    <grossAmount>
+                        <Amount>292.38</Amount>
+                    </grossAmount>
+                    <netAmount>
+                        <Amount>292.38</Amount>
+                    </netAmount>
+                </totalLineAmount>
+            </lineItem>
+            <lineItem number="2" type="SimpleInvoiceLineItemType">
+                <tradeItemIdentification>
+                    <gtin>7501031345205</gtin>
+                </tradeItemIdentification>
+                <alternateTradeItemIdentification type="SUPPLIER_ASSIGNED">462</alternateTradeItemIdentification>
+                <tradeItemDescriptionInformation language="ES">
+                    <longText> MIRINDA 2.5 LTS PET 8</longText>
+                </tradeItemDescriptionInformation>
+                <invoicedQuantity unitOfMeasure="CAJ">1.000</invoicedQuantity>
+                <aditionalQuantity QuantityType="NUM_CONSUMER_UNITS">8.00</aditionalQuantity>
+                <grossPrice>
+                    <Amount>97.46</Amount>
+                </grossPrice>
+                <netPrice>
+                    <Amount>97.46</Amount>
+                </netPrice>
+                <AdditionalInformation>
+                    <referenceIdentification type="ON">0</referenceIdentification>
+                </AdditionalInformation>
+                <allowanceCharge allowanceChargeType="ALLOWANCE_GLOBAL" settlementType="CHARGE_TO_BE_PAID_BY_VENDOR">
+                    <specialServicesType>TD</specialServicesType>
+                    <monetaryAmountOrPercentage>
+                        <percentagePerUnit>0</percentagePerUnit>
+                        <ratePerUnit>
+                            <amountPerUnit>0</amountPerUnit>
+                        </ratePerUnit>
+                    </monetaryAmountOrPercentage>
+                </allowanceCharge>
+                <tradeItemTaxInformation>
+                    <taxTypeDescription>VAT</taxTypeDescription>
+                    <tradeItemTaxAmount>
+                        <taxPercentage>16.00</taxPercentage>
+                        <taxAmount>15.59</taxAmount>
+                    </tradeItemTaxAmount>
+                </tradeItemTaxInformation>
+                <totalLineAmount>
+                    <grossAmount>
+                        <Amount>97.46</Amount>
+                    </grossAmount>
+                    <netAmount>
+                        <Amount>97.46</Amount>
+                    </netAmount>
+                </totalLineAmount>
+            </lineItem>
+            <lineItem number="3" type="SimpleInvoiceLineItemType">
+                <tradeItemIdentification>
+                    <gtin>7501031360024</gtin>
+                </tradeItemIdentification>
+                <alternateTradeItemIdentification type="SUPPLIER_ASSIGNED">1120</alternateTradeItemIdentification>
+                <tradeItemDescriptionInformation language="ES">
+                    <longText> MZNA SOL 600 ML PET 12</longText>
+                </tradeItemDescriptionInformation>
+                <invoicedQuantity unitOfMeasure="CAJ">2.000</invoicedQuantity>
+                <aditionalQuantity QuantityType="NUM_CONSUMER_UNITS">24.00</aditionalQuantity>
+                <grossPrice>
+                    <Amount>45.97</Amount>
+                </grossPrice>
+                <netPrice>
+                    <Amount>45.97</Amount>
+                </netPrice>
+                <AdditionalInformation>
+                    <referenceIdentification type="ON">0</referenceIdentification>
+                </AdditionalInformation>
+                <allowanceCharge allowanceChargeType="ALLOWANCE_GLOBAL" settlementType="CHARGE_TO_BE_PAID_BY_VENDOR">
+                    <specialServicesType>TD</specialServicesType>
+                    <monetaryAmountOrPercentage>
+                        <percentagePerUnit>0</percentagePerUnit>
+                        <ratePerUnit>
+                            <amountPerUnit>0</amountPerUnit>
+                        </ratePerUnit>
+                    </monetaryAmountOrPercentage>
+                </allowanceCharge>
+                <tradeItemTaxInformation>
+                    <taxTypeDescription>VAT</taxTypeDescription>
+                    <tradeItemTaxAmount>
+                        <taxPercentage>16.00</taxPercentage>
+                        <taxAmount>14.71</taxAmount>
+                    </tradeItemTaxAmount>
+                </tradeItemTaxInformation>
+                <totalLineAmount>
+                    <grossAmount>
+                        <Amount>91.94</Amount>
+                    </grossAmount>
+                    <netAmount>
+                        <Amount>91.94</Amount>
+                    </netAmount>
+                </totalLineAmount>
+            </lineItem>
+            <lineItem number="4" type="SimpleInvoiceLineItemType">
+                <tradeItemIdentification>
+                    <gtin>7501031360338</gtin>
+                </tradeItemIdentification>
+                <alternateTradeItemIdentification type="SUPPLIER_ASSIGNED">1162</alternateTradeItemIdentification>
+                <tradeItemDescriptionInformation language="ES">
+                    <longText> MZNA SOL 2.5 LTS PET 8</longText>
+                </tradeItemDescriptionInformation>
+                <invoicedQuantity unitOfMeasure="CAJ">3.000</invoicedQuantity>
+                <aditionalQuantity QuantityType="NUM_CONSUMER_UNITS">24.00</aditionalQuantity>
+                <grossPrice>
+                    <Amount>97.46</Amount>
+                </grossPrice>
+                <netPrice>
+                    <Amount>97.46</Amount>
+                </netPrice>
+                <AdditionalInformation>
+                    <referenceIdentification type="ON">0</referenceIdentification>
+                </AdditionalInformation>
+                <allowanceCharge allowanceChargeType="ALLOWANCE_GLOBAL" settlementType="CHARGE_TO_BE_PAID_BY_VENDOR">
+                    <specialServicesType>TD</specialServicesType>
+                    <monetaryAmountOrPercentage>
+                        <percentagePerUnit>0</percentagePerUnit>
+                        <ratePerUnit>
+                            <amountPerUnit>0</amountPerUnit>
+                        </ratePerUnit>
+                    </monetaryAmountOrPercentage>
+                </allowanceCharge>
+                <tradeItemTaxInformation>
+                    <taxTypeDescription>VAT</taxTypeDescription>
+                    <tradeItemTaxAmount>
+                        <taxPercentage>16.00</taxPercentage>
+                        <taxAmount>46.78</taxAmount>
+                    </tradeItemTaxAmount>
+                </tradeItemTaxInformation>
+                <totalLineAmount>
+                    <grossAmount>
+                        <Amount>292.38</Amount>
+                    </grossAmount>
+                    <netAmount>
+                        <Amount>292.38</Amount>
+                    </netAmount>
+                </totalLineAmount>
+            </lineItem>
+            <lineItem number="5" type="SimpleInvoiceLineItemType">
+                <tradeItemIdentification>
+                    <gtin>7501086801121</gtin>
+                </tradeItemIdentification>
+                <alternateTradeItemIdentification type="SUPPLIER_ASSIGNED">1542</alternateTradeItemIdentification>
+                <tradeItemDescriptionInformation language="ES">
+                    <longText>(a) EPURA 600 ML PET 12</longText>
+                </tradeItemDescriptionInformation>
+                <invoicedQuantity unitOfMeasure="CAJ">3.000</invoicedQuantity>
+                <aditionalQuantity QuantityType="NUM_CONSUMER_UNITS">36.00</aditionalQuantity>
+                <grossPrice>
+                    <Amount>26.51</Amount>
+                </grossPrice>
+                <netPrice>
+                    <Amount>26.51</Amount>
+                </netPrice>
+                <AdditionalInformation>
+                    <referenceIdentification type="ON">0</referenceIdentification>
+                </AdditionalInformation>
+                <allowanceCharge allowanceChargeType="ALLOWANCE_GLOBAL" settlementType="CHARGE_TO_BE_PAID_BY_VENDOR">
+                    <specialServicesType>TD</specialServicesType>
+                    <monetaryAmountOrPercentage>
+                        <percentagePerUnit>0</percentagePerUnit>
+                        <ratePerUnit>
+                            <amountPerUnit>0</amountPerUnit>
+                        </ratePerUnit>
+                    </monetaryAmountOrPercentage>
+                </allowanceCharge>
+                <totalLineAmount>
+                    <grossAmount>
+                        <Amount>79.53</Amount>
+                    </grossAmount>
+                    <netAmount>
+                        <Amount>79.53</Amount>
+                    </netAmount>
+                </totalLineAmount>
+            </lineItem>
+            <totalAmount>
+                <Amount>853.69</Amount>
+            </totalAmount>
+            <baseAmount>
+                <Amount>853.69</Amount>
+            </baseAmount>
+            <tax type="VAT">
+                <taxPercentage>16.00</taxPercentage>
+                <taxAmount>123.86</taxAmount>
+                <baseAmount>
+                    <Amount>774.16</Amount>
+                </baseAmount>
+            </tax>
+            <payableAmount>
+                <Amount>977.55</Amount>
+            </payableAmount>
+        </requestForPayment>
+    </cfdi:Addenda></cfdi:Comprobante>

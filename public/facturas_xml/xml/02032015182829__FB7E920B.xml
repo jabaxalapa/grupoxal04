@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LugarExpedicion="Acacias  lote 1 y 2  manzana 18  s/n s/n Bruno  Pagliai Veracruz  Veracruz 91697 VER MX" Moneda="MXP" NumCtaPago="5930" certificado="MIIEbTCCA1WgAwIBAgIUMDAwMDEwMDAwMDAyMDE5NTk0MTcwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMDkxNzE0MjUzMFoXDTE2MDkxNzE0MjUzMFowga4xGTAXBgNVBAMTEEJBQ0hPQ08gU0EgREUgQ1YxGTAXBgNVBCkTEEJBQ0hPQ08gU0EgREUgQ1YxGTAXBgNVBAoTEEJBQ0hPQ08gU0EgREUgQ1YxJTAjBgNVBC0THEJBQzgwMDIwOEIyNSAvIExPQ0w2MzA5MTBOMzYxHjAcBgNVBAUTFSAvIExPQ0w2MzA5MTBIREZQU1MwODEUMBIGA1UECxMLQ09SUE9SQVRJVk8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAK62Drsy4ibD06yK2fR2Uhd3fFdcYXVvqVy+gtxCQZ5kPux85IeQtp9yaF+BhtxVroepkK19pcN+Pd2bvNmLwiRloX68/aiIMyGeufgDetswdKW55VJHoZozv6FxsLw5SjjwKJGa0LV325R91a7Bj7EL0BzyUJTFNTgpggf/HvVbAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQBPm5Mfj7ivb/Vrr5j4RJIzDy8RK1/EfEM8TJjA0EsaPzhorMXrCIzH3JnAvWoriFVD72QeLS+kMXVAjcsODhuPB5l+ds1qP9OecHnOwuozoc6e3f7d/h3kmLlLgXLFGGXyLBG3uM3rhFHl9q9QpqKh9HfCu3j4FUYWIcnFtC9XsruVmMDBXWbBOThjz6uGW7sZ5uChy++qBcmg4ui9LKhXKIQlWhwjr5FQ+FGimvGV2AGLgPeu2KykyxGvHmHkCReVvXxd4/Akp/6AcSbetFjxMQlWeEMS+Eh3E0r7nkT/D5kKbt8a07V1UnALMBWRDk3AP181I09/2FO+3RaDb9s5" condicionesDePago="Hasta el 15.03.2015" fecha="2015-02-23T03:35:18" folio="13096414" formaDePago="El pago de la contraprestacion se hace en una sola exhibicion" metodoDePago="Cheque nominativo" noCertificado="00001000000201959417" sello="h85XSP9RRtSK3T5QdDy37uFyxqFZCEPYvJUBuna71zOvY+uGPVi0pM5Hx90pQqkt/2Ck5zPeZqIWYZwcEcNTJ5IG8H83EbdCbHObj0CBVO+KjPhvqKrHbGw7YRxb6hHO4neS1yasZFWqsgOKlViUVd0qLnsCYOzj595jbTY/4mU=" serie="FSBA" subTotal="3526.64" tipoDeComprobante="ingreso" total="3526.64" version="3.2" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd">
+  <cfdi:Emisor nombre="BACHOCO, S.A. DE C.V." rfc="BAC800208B25">
+    <cfdi:DomicilioFiscal calle="Av. Tecnológico" codigoPostal="38010" colonia="Cd. Industrial" estado="GTO" localidad="Celaya" municipio="Celaya" noExterior="401" pais="MX" referencia="a un costado de Costco" />
+    <cfdi:ExpedidoEn calle="Acacias  lote 1 y 2  manzana 18" codigoPostal="91697" colonia="Bruno  Pagliai" estado="VER" localidad="Veracruz" municipio="Veracruz" noExterior="s/n" noInterior="s/n" pais="MX" />
+    <cfdi:RegimenFiscal Regimen="RÉGIMEN DE ACTIVIDADES AGRÍCOLAS, GANADERAS, SILVÍCOLAS Y PESQUERAS" />
+  </cfdi:Emisor>
+  <cfdi:Receptor nombre="GRUPO XALAPA, S.A DE C.V." rfc="GXA030106S26">
+    <cfdi:Domicilio calle="LAZARO CARDENAS 404" codigoPostal="91180" colonia="XALAPA" estado="VER" localidad="COL. ENCINAL" pais="MX" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="104.000" descripcion="CORTE KENTUCKY" importe="3526.64" noIdentificacion="000000000000001250" unidad="PZA" valorUnitario="33.91" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="            0.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado importe="0" impuesto="IVA" tasa="0" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="fb7e920b-1e14-4cf4-8417-e68548c462cf" FechaTimbrado="2015-02-23T03:35:53" selloCFD="h85XSP9RRtSK3T5QdDy37uFyxqFZCEPYvJUBuna71zOvY+uGPVi0pM5Hx90pQqkt/2Ck5zPeZqIWYZwcEcNTJ5IG8H83EbdCbHObj0CBVO+KjPhvqKrHbGw7YRxb6hHO4neS1yasZFWqsgOKlViUVd0qLnsCYOzj595jbTY/4mU=" noCertificadoSAT="00001000000202693892" selloSAT="Xa+VaD36VDYysNvzkE2oJnn/OYuPaZWgdQZ4Hq0qSiOm90T53HBeYeiH8SohY7wxu395uUcWSWJxsyixMRdYNMg9GEdm24zgkUtJTaLJw3/eWbkik8KypFc0XkK4CKR3OqdMcLYUVSg2R7VpkczQy7F6wlja9YAA7k4Arv8DNyA=" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

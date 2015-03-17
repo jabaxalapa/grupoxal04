@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?><cfdi:Comprobante version="3.2" serie="XLP" folio="113106" fecha="2014-07-10T03:55:53" sello="L3JtruQe42sq9paIGsdBfSzSDkbeqeaWwvWkl0WPcvG85Kqa40R1oqsaujoNYGHE7zDoBZLpDlvc0GX5eX6+b+TlVe2UUWycwJcoyIlmIOXbSxpEtagzu4JIMrJ8WKmFntwVK1i2fUpZ3s53+mE1p+qV/Sn+wA5QG4zALBP2H8w=" formaDePago="Pago en una sola exhibicion" noCertificado="00001000000301826379" certificado="MIIEnzCCA4egAwIBAgIUMDAwMDEwMDAwMDAzMDE4MjYzNzkwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzEyMTcwMDMyMDVaFw0xNzEyMTcwMDMyMDVaMIHrMS8wLQYDVQQDEyZDVCBJTlRFUk5BQ0lPTkFMIERFTCBOT1JPRVNURSBTQSBERSBDVjEvMC0GA1UEKRMmQ1QgSU5URVJOQUNJT05BTCBERUwgTk9ST0VTVEUgU0EgREUgQ1YxLzAtBgNVBAoTJkNUIElOVEVSTkFDSU9OQUwgREVMIE5PUk9FU1RFIFNBIERFIENWMSUwIwYDVQQtExxDSU45NjA5MDRGUTIgLyBST1ZINjEwOTA1TkY5MR4wHAYDVQQFExUgLyBST1ZINjEwOTA1SFNMSkxSMDUxDzANBgNVBAsTBk1BVFJJWjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAnduJPWLYU6lhRg9t0MOn9BrUzZd+QiMKVi9u4IReI5peGV9EMVzNsdA3N5E9YQvVHuKSqRwo83B8uURfe0bo/6tHgwr83iNfqZtSQ5S52nYg7sQMquWAbSLJYVQ9aK3AGv7F+uR68fmfgA63B5S8gZPTj6DaGmNWwK6ERnGNT90CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBAEuGmtI2397KvHV1F6wwMkR57OLGivXxnf2NFpRRW/43DH3AykbI6cEjv0n/VyA/5zifWIfqFu/LcoFvIVX+f2eTdDn/NfYCj0Rf15IZ55mBiRtTxUyJVtmk4BfRouePNqYFuAnI+Ln5MRylkXs08yZlkx0NT7Pm8PrSWwOdixka+6KLdfbpYP+41D1+e7aZQnrledCtXzrJxabiMmToPD37BhYvzIcThhRQ6+IBkQO6AMD6xEdRoBJba5thH/ETIzx6+Jcuv/q8SoHO6aWI9WLX0G7/Gt+ojmdYuv1t60njXKQAs/F+vze3lQ3sMWKzaWOqcbGSg9o3JAoFrv17zbg=" subTotal="11345.41" LugarExpedicion="Xalapa, Veracruz" NumCtaPago="0000" TipoCambio="1.00" Moneda="MXN" total="13160.66" metodoDePago="Transferencia electrónica de fondos" tipoDeComprobante="ingreso" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd"><cfdi:Emisor rfc="CIN960904FQ2" nombre="CT INTERNACIONAL DEL NOROESTE SA DE CV"><cfdi:DomicilioFiscal calle="Guerrero" noExterior="168" colonia="Centro" localidad="Hermosillo" municipio="Hermosillo" estado="Sonora" pais="México" codigoPostal="83000" /><cfdi:ExpedidoEn calle="Ismael Cristie" noExterior="5" colonia="Rafael Lucio" localidad="Xalapa" referencia="Esquina Rafael Aguirre Cinta" estado="Veracruz" pais="México" codigoPostal="91100" /><cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES" /></cfdi:Emisor><cfdi:Receptor rfc="FEAH711109T21" nombre="HUGO FERNANDEZ ARAGON"><cfdi:Domicilio calle="RIO JAMAPA #10" colonia="CUAHUTEMOC" localidad="XALAPA" estado="VER." pais="MEXICO" codigoPostal="91069" /></cfdi:Receptor><cfdi:Conceptos><cfdi:Concepto cantidad="4.00" unidad="Pieza" noIdentificacion="MBDGIG2480" descripcion="MB GIGABYTE GA-J1800N-D2P" valorUnitario="784.58" importe="3138.30" /><cfdi:Concepto cantidad="4.00" unidad="Pieza" noIdentificacion="DDUKGT510" descripcion="DD KINGSTON SATA 120GB SV300S37A/120G" valorUnitario="938.08" importe="3752.32" /><cfdi:Concepto cantidad="4.00" unidad="Pieza" noIdentificacion="MEMKGT2960" descripcion="SO-DIMM DDR3 4/1333 KINGSTON" valorUnitario="490.69" importe="1962.75" /><cfdi:Concepto cantidad="4.00" unidad="Pieza" noIdentificacion="GABGEN125" descripcion="GAB ACTECK BERN 500W TD510" valorUnitario="423.06" importe="1692.24" /><cfdi:Concepto cantidad="4.00" unidad="Pieza" noIdentificacion="CDRSMG400" descripcion="DVD-RW SMG SH-224DB/MIDS OEM NEGRA SATA" valorUnitario="199.95" importe="799.80" /></cfdi:Conceptos><cfdi:Impuestos totalImpuestosTrasladados="1815.26"><cfdi:Traslados><cfdi:Traslado impuesto="IVA" tasa="16.00" importe="1815.26" /></cfdi:Traslados></cfdi:Impuestos><cfdi:Complemento><tfd:TimbreFiscalDigital version="1.0" UUID="B0C5A03B-3235-477A-83D0-819DDEF87CB5" FechaTimbrado="2014-07-10T17:49:07" selloCFD="L3JtruQe42sq9paIGsdBfSzSDkbeqeaWwvWkl0WPcvG85Kqa40R1oqsaujoNYGHE7zDoBZLpDlvc0GX5eX6+b+TlVe2UUWycwJcoyIlmIOXbSxpEtagzu4JIMrJ8WKmFntwVK1i2fUpZ3s53+mE1p+qV/Sn+wA5QG4zALBP2H8w=" noCertificadoSAT="00001000000203159375" selloSAT="d/Yc0sFTjaUrK1WC3pywc3kYA5CZ/UaujxTVgv1bCqXlqVuUGnCteQfor6JJtLca72R+dhl8tu3fUi+Xzwo4tkrpYoX95goTJp2OWKLjdKIm7va3isPZoIrZ/nxWVc/EA096zal4+Y/2bhuNrO9DtbOSQ9CDh01GsFRzgH+ZL34=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" /></cfdi:Complemento><cfdi:Addenda><mf:MASFACTURA xmlns:mf="http://www.masteredi.com.mx/masfactura" xsi:schemaLocation="http://www.masteredi.com.mx/masfactura http://www.masteredi.com.mx/masfacturanet/masfactura.xsd">VERSIO	2.0
+ENCAB
+TRADPP	MASTEDI
+NUMFOL	113106
+SERFOL	XLP
+FECEXP	2014-07-10T03:55:53
+FECVEN	07/10/14
+TIPDOC	1
+NOMDOC	FACTURA
+FUNDOC	O
+TIPMON	MXN
+TIPCAM	1.00
+NUMCLI	XLP0445
+AGENTE	XL09
+
+RFCEMI	CIN960904FQ2
+NOMEMI	CT INTERNACIONAL DEL NOROESTE SA DE CV
+CALEMI	Guerrero
+NEXEMI	168
+COLEMI	Centro
+MUNEMI	Hermosillo
+ESTEMI	Sonora
+PAIEMI	México
+CODEMI	83000
+REGIMEN	REGIMEN GENERAL DE LEY PERSONAS MORALES
+
+CALEXP	Ismael Cristie
+NEXEXP	5
+NINEXP
+COLEXP	Rafael Lucio
+LOCEXP	Xalapa
+REFEXP	Esquina Rafael Aguirre Cinta
+ESTEXP	Veracruz
+LUGEXP	Xalapa, Veracruz
+CTAPAG	0000
+PAIEXP	México
+CODEXP	91100
+SUCTEL	(228) 843-5394
+SUCFAX	(228) 843-5369
+
+RFCREC	FEAH711109T21
+NOMREC	HUGO FERNANDEZ ARAGON
+CALREC	RIO JAMAPA #10
+COLREC	CUAHUTEMOC
+LOCREC	XALAPA
+ESTREC	VER.
+CODREC	91069
+PAIREC	MEXICO
+
+CANTID	4.00
+UNIDAD	Pieza
+CVECTI	MBDGIG2480
+CODUPC	MBDGIG2480
+DESCRI	MB GIGABYTE GA-J1800N-D2P
+PBRUDE	784.58
+IMPBRU	3138.30
+TDECON	0.00
+MDECON	0.00
+IMPORT	3138.30
+VALUNI	784.58
+TASIPE	16
+MONIPE	502.13
+NUMLIN	1
+
+CANTID	4.00
+UNIDAD	Pieza
+CVECTI	DDUKGT510
+CODUPC	DDUKGT510
+DESCRI	DD KINGSTON SATA 120GB SV300S37A/120G
+PBRUDE	938.08
+IMPBRU	3752.32
+TDECON	0.00
+MDECON	0.00
+IMPORT	3752.32
+VALUNI	938.08
+TASIPE	16
+MONIPE	600.37
+NUMLIN	2
+
+CANTID	4.00
+UNIDAD	Pieza
+CVECTI	MEMKGT2960
+CODUPC	MEMKGT2960
+DESCRI	SO-DIMM DDR3 4/1333 KINGSTON
+PBRUDE	490.69
+IMPBRU	1962.75
+TDECON	0.00
+MDECON	0.00
+IMPORT	1962.75
+VALUNI	490.69
+TASIPE	16
+MONIPE	314.04
+NUMLIN	3
+
+CANTID	4.00
+UNIDAD	Pieza
+CVECTI	GABGEN125
+CODUPC	GABGEN125
+DESCRI	GAB ACTECK BERN 500W TD510
+PBRUDE	423.06
+IMPBRU	1692.24
+TDECON	0.00
+MDECON	0.00
+IMPORT	1692.24
+VALUNI	423.06
+TASIPE	16
+MONIPE	270.76
+NUMLIN	4
+
+CANTID	4.00
+UNIDAD	Pieza
+CVECTI	CDRSMG400
+CODUPC	CDRSMG400
+DESCRI	DVD-RW SMG SH-224DB/MIDS OEM NEGRA SATA
+PBRUDE	199.95
+IMPBRU	799.80
+TDECON	0.00
+MDECON	0.00
+IMPORT	799.80
+VALUNI	199.95
+TASIPE	16
+MONIPE	127.97
+NUMLIN	5
+
+TOTLPF	5
+SUBTBR	11345.4112
+MONDET	0.00
+SUBTSI	0
+SUBTAI	11345.40
+SUBTOT	11345.40
+TOTIVA	16
+IVATRA	1815.26
+TOTPAG	13160.66
+METPAG	Transferencia electrónica de fondos
+
+@@VER_MFACTURA@@	3.0
+LOCEMI	Hermosillo
+AOAPRO	0
+NOAPRO	0
+TIPDOC	1
+TIPCOM	ingreso</mf:MASFACTURA></cfdi:Addenda></cfdi:Comprobante>
